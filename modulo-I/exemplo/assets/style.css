@@ -1,0 +1,39 @@
+
+main {
+    margin: 0;
+    padding: 0;
+    max-width: 900;
+    min-width: 350;
+}
+
+.cabecalho {
+    margin-top: 50px;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+
+header {
+    margin: 0;
+    display: inline-flex;
+}
+
+h1 {
+    text-align: left;
+    margin:0;
+    padding: 0;
+}
+
+img {
+    margin-right: 200px;
+    margin-left: 0;
+    margin-top: 20px;
+    border-radius: 50px;
+
+}
+
+p {
+  
+   padding-right: 100px;
+}
+
+
